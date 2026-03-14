@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "愛は花、君はその種子",
+  "base_artist": "都はるみ",
+  "createdAt": "2026-03-14T04:22:46.691123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "井上あずみ",
+      "has_synced": false,
+      "path": "select/01_愛は花、君はその種子_井上あずみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子 (オルゴール)",
+      "artist": "オルゴール ブルーム",
+      "has_synced": false,
+      "path": "select/02_愛は花、君はその種子_(オルゴール)_オルゴール_ブルーム.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "Azumi Inoue",
+      "has_synced": false,
+      "path": "select/03_愛は花、君はその種子_Azumi_Inoue.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "Harumi Miyako",
+      "has_synced": true,
+      "path": "select/04_愛は花、君はその種子_Harumi_Miyako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子(おもひでぽろぽろ)",
+      "artist": "グループループ",
+      "has_synced": false,
+      "path": "select/05_愛は花、君はその種子(おもひでぽろぽろ)_グループループ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "Grooploop",
+      "has_synced": false,
+      "path": "select/06_愛は花、君はその種子_Grooploop.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "EN L'AIR",
+      "has_synced": false,
+      "path": "select/07_愛は花、君はその種子_EN_L'AIR.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/08_愛は花、君はその種子_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子～The Rose",
+      "artist": "Ayaka Hirahara",
+      "has_synced": true,
+      "path": "select/09_愛は花、君はその種子~The_Rose_Ayaka_Hirahara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "オルゴールメロディー",
+      "has_synced": true,
+      "path": "select/10_愛は花、君はその種子_オルゴールメロディー.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子~The Rose",
+      "artist": "平原綾香",
+      "has_synced": true,
+      "path": "select/11_愛は花、君はその種子~The_Rose_平原綾香.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛は花、君はその種子",
+      "artist": "Miyako, Harumi",
+      "has_synced": true,
+      "path": "select/12_愛は花、君はその種子_Miyako,_Harumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛は花、君はその種子 (おもひでぽろぽろ)",
+      "artist": "都はるみ",
+      "has_synced": false,
+      "path": "select/pl_01_愛は花、君はその種子_(おもひでぽろぽろ)_都はるみ.txt"
+    }
+  ]
+}
